@@ -22,11 +22,12 @@ Implementação do https://www.tabnews.com.br/ para o curso https://curso.dev
 
 1. `git log`, `git log --stat`
 2. .gitignore
-3. `git log --oneline`
-4. `git add`
-5. `git commit --amend`
-6. `git commit -m`
-7. `git push`
+3. `git status`
+4. `git log --oneline`
+5. `git add`
+6. `git commit --amend`
+7. `git commit -m`
+8. `git push`
    
 ### 1.3, Vercel
 1. Criar uma conta e fazer ela `olhar` para o seu repositório no Github. Deste modo, toda vez que houver um commit, ela atualiza.
